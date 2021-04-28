@@ -37,7 +37,7 @@ public class GitHub {
 
             String Iniciales = Nombres1.substring(0, 1) + "."+Nombres2.substring(0, 1)+"."+ ApellidoP.substring(0, 1) + "." + ApellidoM.substring(0, 1);
             JOptionPane.showMessageDialog(null, "Iniciales: " + Iniciales);
-            JOptionPane.showMessageDialog(null, "GIT PRUEBA");
+
         }
 
     }
